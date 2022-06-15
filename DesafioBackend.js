@@ -35,7 +35,7 @@ class Usuario {
   
   // Creacion de objeto
   
-  usuario = new Usuario("Diego", 'Maldonado');
+  let usuario = new Usuario("Diego", 'Maldonado');
   
   // Invocacion de metodos
   
